@@ -1,4 +1,4 @@
-# Concise, idiomatic way to count things in Python
+# Concise, conversational way to count things in Python
 
 count = {}
 for item in things:
